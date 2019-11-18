@@ -1,0 +1,10 @@
+﻿vẽ mô hình quan hệ mỗi bảng là mỗi entity class
+controller 
+-----------
+-chọn 2/3 chức năng để làm--
+-them xoa sua
+-tim kiếm 
+-tính ti=oán  bán mua
+-khách hàng dặt hàng
+-cập nhật tình trạng đơn hàng
+-thống kê xuất file pdf báo cáo thu nhập
